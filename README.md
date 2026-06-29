@@ -17,3 +17,34 @@ The application provides secure role-based authentication and allows administrat
 * 🚨 Global Exception Handling
 * 🔔 Toast Notifications
 * 🛡️ Spring Security
+
+## 🛠️ Tech Stack
+
+### Backend
+
+* Java 21
+* Spring Boot
+* Spring Security
+* Spring Data JPA
+* JWT Authentication
+* Maven
+
+### Frontend
+
+* React.js
+* React Router
+* Axios
+* React Toastify
+* CSS3
+
+### Database
+
+* PostgreSQL
+
+### Tools
+
+* IntelliJ IDEA
+* VS Code
+* Postman
+* Git
+* GitHub
