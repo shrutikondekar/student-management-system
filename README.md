@@ -48,3 +48,24 @@ The application provides secure role-based authentication and allows administrat
 * Postman
 * Git
 * GitHub
+## 📸 Application Screenshots
+
+### Login Page
+
+![Login](screenshots/Login.png)
+
+### Dashboard
+
+![Dashboard](screenshots/Dashboard.png)
+
+### Add Student
+
+![Add Student](screenshots/AddStudent.png)
+
+### Search Student
+
+![Search Student](screenshots/SearchStudent.png)
+
+### Pagination
+
+![Pagination](screenshots/Pagination.png)
