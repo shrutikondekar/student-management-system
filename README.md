@@ -52,20 +52,20 @@ The application provides secure role-based authentication and allows administrat
 
 ### Login Page
 
-![Login](screenshots/Login.png)
+![Login](Screenshots/Login.png)
 
 ### Dashboard
 
-![Dashboard](screenshots/Dashboard.png)
+![Dashboard](Screenshots/Dashboard.png)
 
 ### Add Student
 
-![Add Student](screenshots/AddStudent.png)
+![Add Student](Screenshots/AddStudent.png)
 
 ### Search Student
 
-![Search Student](screenshots/SearchStudent.png)
+![Search Student](Screenshots/SearchStudent.png)
 
 ### Pagination
 
-![Pagination](screenshots/Pagination.png)
+![Pagination](Screenshots/Pagination.png)
